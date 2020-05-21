@@ -1,17 +1,3 @@
-.wrapper{
-    position: relative;   
-}
-.overlay{
-    position: absolute;        
-    top: 0;
-    left: 0;
-    
-    opacity: .1;
-    background-color: blue;
-    height: 20px;
-    width: 70px;
-}
-
 .leaflet-control-geocoder {
     width: 200px !important;
 }
